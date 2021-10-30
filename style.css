@@ -109,7 +109,8 @@ form label {
 form select,
 form input {
   margin-bottom: 20px;
-  width: 180px;
+  margin-left: 5 px;
+  width: 100%;
 }
 
 form div{
@@ -152,7 +153,6 @@ footer p {
 @media all and (min-width: 480px){
   
   .group {
-    display: flex;
     flex-direction: row;
     align-items: center;
   }
