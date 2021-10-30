@@ -1,5 +1,9 @@
 /* -------  General Styles ------- */
 
+html{
+  display: flex;
+}
+
 body {
   font-family: "Lato", sans-serif;
   color: #6b1a22;
